@@ -18,7 +18,7 @@
 
 # url
 
-(平成8曜日)[https://note.mu/keenj]
+[平成8曜日](https://note.mu/keenj)
 
 
 
